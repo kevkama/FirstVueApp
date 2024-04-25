@@ -2,8 +2,15 @@
     <div id="alumni">
         <v-container>
             <v-layout column>
-                <v-parallax
-                    src="public\uni1.jpg">
+                <v-parallax src="https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg">
+                    <div class="d-flex flex-column fill-height justify-center align-center text-white">
+                        <h1 class="text-h4 font-weight-thin mb-4">
+                            Strathmore Alumni
+                        </h1>
+                        <h4 class="subheading">
+                            Learn more about students that came before you
+                        </h4>
+                    </div>
                 </v-parallax>
             </v-layout>
             <v-container>

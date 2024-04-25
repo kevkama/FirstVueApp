@@ -2,8 +2,15 @@
     <div id="partnerships">
         <v-container>
             <v-layout column>
-                <v-parallax
-                    src="public\uni1.jpg">
+                <v-parallax src="https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg">
+                    <div class="d-flex flex-column fill-height justify-center align-center text-white">
+                        <h1 class="text-h4 font-weight-thin mb-4">
+                            Our partnerships
+                        </h1>
+                        <h4 class="subheading">
+                            We are fortunate enough to have dedicated partners who make the process seamless
+                        </h4>
+                    </div>
                 </v-parallax>
             </v-layout>
             <v-container>
