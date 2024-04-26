@@ -1,14 +1,6 @@
 # StrathVueApp
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This is a is the first app i came uop with while learning Vue framework and vuetify. it is meant to be a school management website that provides information to students. it also acts as a way for the students to interact with the university for mundane repetitive tasks like registration.
 
 ## Project Setup
 
@@ -27,3 +19,9 @@ npm run dev
 ```sh
 npm run build
 ```
+### screenshot of  StrathVueApp
+
+Events Page
+![image](https://github.com/kevkama/FirstVueApp/assets/146343785/cb18a938-3b66-4ad3-95b5-314225515e93)
+
+
