@@ -25,6 +25,10 @@ npm run build
 ```
 ### screenshot of  StrathVueApp
 
+HomePage
+![image](https://github.com/kevkama/FirstVueApp/assets/146343785/001c9604-7640-4340-87cb-c8a3ac5f19c8)
+
+
 Events Page
 ![image](https://github.com/kevkama/FirstVueApp/assets/146343785/cb18a938-3b66-4ad3-95b5-314225515e93)
 
