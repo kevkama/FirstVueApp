@@ -1,5 +1,9 @@
 # StrathVueApp
 
+# Link to live site
+https://firstvueapp-i0sb.onrender.com
+
+
 This is a is the first app i came uop with while learning Vue framework and vuetify. it is meant to be a school management website that provides information to students. it also acts as a way for the students to interact with the university for mundane repetitive tasks like registration.
 
 ## Project Setup
